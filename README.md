@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-🎓 I’m currently pursuing Electrical & Electronics Engineering at IIT Guwahati 
-🔭 I'm currently working on innovative applications of Machine Learning and modern web technologies.
-💡 Passionate about solving real-world problems using AI, data, and scalable web solutions.  
-🎯 I enjoy experimenting with new tech stacks and building intelligent, user-friendly applications.  
+🎓 I’m currently pursuing Electrical & Electronics Engineering at IIT Guwahati<br>
+🔭 I'm currently working on innovative applications of Machine Learning and modern web technologies.<br>
+💡 Passionate about solving real-world problems using AI, data, and scalable web solutions.<br>
+🎯 I enjoy experimenting with new tech stacks and building intelligent, user-friendly applications.<br>
 🎸 Outside of tech, I love playing the guitar and singing and also a professional speedcuber!
 
 ---
