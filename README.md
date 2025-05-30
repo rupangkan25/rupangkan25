@@ -1,11 +1,15 @@
-# 👋 Hi, I'm Rupangkan Mazumdar  
-**Machine Learning Enthusiast | Web Developer | Speedcuber | Guitarist**
+<p align="center">
+  <h1 align="center">👋 Hi, I'm Rupangkan Mazumdar</h1>
+  <h3 align="center"><strong>Machine Learning Enthusiast | Web Developer | Speedcuber | Guitarist</strong></h3>
+</p>
+
 
 ---
 
 ## 🚀 About Me
 
-🎓 I’m currently pursuing Electrical & Electronics Engineering and working on innovative applications of Machine Learning and modern web technologies.  
+🎓 I’m currently pursuing Electrical & Electronics Engineering at IIT Guwahati 
+🔭 I'm currently working on innovative applications of Machine Learning and modern web technologies.
 💡 Passionate about solving real-world problems using AI, data, and scalable web solutions.  
 🎯 I enjoy experimenting with new tech stacks and building intelligent, user-friendly applications.  
 🎸 Outside of tech, I love playing the guitar and singing and also a professional speedcuber!
